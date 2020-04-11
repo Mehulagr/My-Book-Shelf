@@ -5,11 +5,9 @@ This is a project I worked on for Udacity's React Fundamentals course.
 
 To get started developing right away:
 
-* clone project using 
+* clone project using `https://github.com/Mehulagr/My-Book-Shelf.git`
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
-
-Remember that good React design practice is to create new JS files for each component and use import/require statements to include them where they are needed.
 
 ## Cloned
 I used starter template provided by Udacity [here](https://github.com/udacity/reactnd-project-myreads-starter).
